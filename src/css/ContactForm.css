@@ -1,0 +1,12 @@
+.FormContainer{
+    border:1px solid gray;
+    width: 100%;
+}
+
+.TextSend{
+    color: black;
+}
+
+.text-center{
+    margin-top: 10px;
+}
